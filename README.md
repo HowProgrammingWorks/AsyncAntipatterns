@@ -1,2 +1,1 @@
-# AsyncAntipatterns
-Asynchronous Programming Antipatterns
+# Asynchronous Programming Antipatterns
